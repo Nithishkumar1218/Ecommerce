@@ -612,7 +612,7 @@ export const products = [
   },
   {
     id: "36c64692-677f-4f58-b5ec-0dc2cf109e27",
-    image: "images/products/floral-mixing-bowl-set.jpg",
+    image: "products/floral-mixing-bowl-set.jpg",
     name: "10-Piece Mixing Bowl Set with Lids - Floral",
     rating: {
       stars: 5,
